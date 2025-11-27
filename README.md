@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Lamar
+# 👋 Hey, I'm Kassim Ishaq
 
 🚀 **Front-End Developer | SaaS Builder | Problem Solver**
 
